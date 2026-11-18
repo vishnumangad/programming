@@ -67,8 +67,6 @@ hang = [
         |
        ==="""
     ]
-
-
 words=['Cat', 'Dog', 'Elephant', 'Giraffe', 'Lion', 'Tiger', 'Zebra', 'Monkey', 'Kangaroo', 'Panda']
 correct=[]
 word=random.choice(words).lower()
